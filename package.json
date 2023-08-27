@@ -1,0 +1,14 @@
+{
+  "name": "learn_vitest",
+  "version": "0.0.1",
+  "description": "learn vitest",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "mostafasissi",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^0.34.3"
+  }
+}
